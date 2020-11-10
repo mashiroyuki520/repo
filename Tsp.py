@@ -51,6 +51,8 @@ Sum += dist_list[0][ord[n-1]]
 
 print(odr)
 print(Sum)
+#this py file did not work correctly,any can help me change it ?
+
 
 
 
